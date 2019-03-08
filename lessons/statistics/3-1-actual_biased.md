@@ -36,7 +36,8 @@ thinkplot.Show(xlabel='Number of Children per Family', ylabel='PMF')
 
 ## The results:
 
-Actual Mean: 1.024
-Observed Mean: 2.404
+* Actual Mean: 1.024
+* Observed Mean: 2.404
 
+![PMF Plots](ex3_1_plot.png)
 
