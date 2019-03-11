@@ -112,7 +112,17 @@ If you plug in the probabilities to the formula denoted above, you get the answe
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Frequentists deal with long term probabilities, while Bayesians deal with specific events. With frequentism, you make assumptions about the process that generated your data.
+
+The Frequentist sees probability as a long-run expected frequency of occurrence (P(A) = n/N)
+
+The Bayesian sees probability as a degree of belief/a measure of plausibility given incomplete knowledge
+
+Since frequentists believe that the true mean is a single fixed value and can either be in the confidence interval or not, they would have to state: "95% of similar intervals would contain the true mean, if each interval were constructed from a different random sample like this one."
+
+The Bayesian, on the other hand can state "There is a 95% probability that this interval contains the mean."
+
+[Source](http://www.statisticalengineering.com/frequentists_and_bayesians.htm)
 
 ---
 
